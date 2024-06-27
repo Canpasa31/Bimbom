@@ -30,7 +30,7 @@ Merhaba Botu Gruplarınıza Ekleyin ! Reklam vermek icin yazın
 ┗━━━━━━━━━━━━━━━━━
  
   ʜɪᴛ /help **yardim için /help yaz**
- [❤](https://telegra.ph/file/2fa3a833f3ccc1d98dba1.jpg),
+ [❤](https://telegra.ph/file/830754b7c8d3db7396df6.jpg),
 """,
     link_preview=False,
     buttons=(
